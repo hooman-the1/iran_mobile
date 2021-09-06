@@ -8,6 +8,11 @@ for now it consist of 3 main method for :
 2. determine just operator of cell phone number (if its a wrong phone number returns None)
 3. retun type of cell phone based on prepaid or postpaid and its operator 
 
+##### install by pip:
+```
+pip install iran-mobiles
+```
+
 ### how to use :
 first import module as :
 ```    
